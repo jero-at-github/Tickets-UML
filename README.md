@@ -1,4 +1,4 @@
-# Tickets-UML
+# Event tickets - UML
 UML diagrams (activity, sequence, states, data model) for Blockchain events ticket system PoC.
 
 ## Description
